@@ -1,3 +1,7 @@
 hdkhskdhkhskjdhkjshkdh
+<<<<<<< HEAD
 hjgjkhgjghjghfhgf
 hhhhhhhhhhhhhhhhhhhhhhh
+=======
+hjgjkhgjghjghfhgf
+>>>>>>> 70d73193b1008e4b6c2bb37aac2f2e3d8de0935e

@@ -1,18 +1,1 @@
-jdlkfjkshkfkdsf
-sfjkdsjkf
-sfkjjkdsf
-sfjkdsjfs'dfjdf
-sfsdfjsldf
-sdjfldsf
-dkjjfkhkdshjkfkjdskfjdshkjds
-fkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-dkkkkkkkkkkkkkkkkkkdsndvnsvndvnsvdvsh
-fkdfjdkjfkggggggggggggg
-fkdfjdkjfkdjfkj
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-fkdfjdkjfkdjffffffffffff
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-
-kdlskdlks
-sssssssssssssssssedittteee
-editttedd
+USER_B changed and pushed.But User_A dont have these changes
